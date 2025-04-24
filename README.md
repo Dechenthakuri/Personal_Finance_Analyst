@@ -38,9 +38,9 @@ This project tracks personal income and expenses using:
 
 ## 🖼️ Sample Visualization
 
-(https://github.com/Dechenthakuri/Personal_Finance_Analyst/blob/main/Personal_finance.pbix?raw=true)
+https://github.com/Dechenthakuri/Personal_Finance_Analyst/blob/main/Personal_finance.pbix?raw=true
 
-(https://github.com/Dechenthakuri/Personal_Finance_Analyst/blob/main/Personal_finance.pdf?raw=true)
+https://github.com/Dechenthakuri/Personal_Finance_Analyst/blob/main/Personal_finance.pdf?raw=true
 
 
 ## 📬 Contact
